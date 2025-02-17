@@ -10,7 +10,7 @@
 - **AI & Machine Learning:** TensorFlow, NumPy, Pandas, Scikit-Learn  
 - **Databases:** PostgreSQL, MongoDB
 
-- ### 📫 Connect with me: [LinkedIn](www.linkedin.com/in/kshitizpundir) | [Email](mailto:pundir.kshitiz@gmail.com)
+- ### 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kshitizpundir) | [Email](mailto:pundir.kshitiz@gmail.com)
 
 - 💡 Always learning and building cool projects!  
 
